@@ -1,0 +1,5 @@
+---
+ - hosts: centos6
+   gather_facts: True
+   roles: 
+     - users

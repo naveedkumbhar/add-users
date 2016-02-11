@@ -1,0 +1,15 @@
+---
+users_list:
+ - username: arbab
+   github_username: arbabnazar
+   type: admin
+   state: present
+ - username: naveed
+   github_username: naveedkumbhar
+   type: admin
+   state: present
+ - username: hamza
+   github_username: sarwarhamza
+   type: admin
+   state: present
+  
